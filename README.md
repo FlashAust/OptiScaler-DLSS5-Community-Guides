@@ -9,12 +9,12 @@ Rather than relying on a single method, these configurations discuss a variety o
 
 ### 🧪 Personal Testing & Recommendations
 
-![DLSS 5 Swapper Banner](YOUR_IMAGE_URL_HERE)
+![DLSS 5 Swapper Banner](image_8amSO8.png)
 
 Overall, after testing multiple programs like ClickDLSS, DLSS Swapper, and others, I personally found **DLSS 5 Swapper** to be the fastest and most effective tool with a high success rate. I have successfully converted around 15 games to DLSS 5 using it within just 2 weeks.
 
 All credit goes to the creators: 
-🔗 https://dlss5swapper.org
+🔗 https://dlss5swapper.org/
 
 ### 🔍 How to View the Configuration Guides
 All 9 calibration guides and diagnostic breakdowns are hosted in our dedicated tracking index on this page.
