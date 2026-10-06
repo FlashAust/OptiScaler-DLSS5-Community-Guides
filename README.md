@@ -8,6 +8,9 @@ Rather than relying on a single method, these configurations discuss a variety o
 * **Upscaler Modding:** Fine-tuning advanced fallback loops and frame generation layers across multi-pass scaling assets.
 
 ### 🧪 Personal Testing & Recommendations
+
+![DLSS 5 Swapper Banner](YOUR_IMAGE_URL_HERE)
+
 Overall, after testing multiple programs like ClickDLSS, DLSS Swapper, and others, I personally found **DLSS 5 Swapper** to be the fastest and most effective tool with a high success rate. I have successfully converted around 15 games to DLSS 5 using it within just 2 weeks.
 
 All credit goes to the creators: 
