@@ -23,5 +23,6 @@ To view the guides, simply click on the **Issues** tab located at the very top-l
 
 Feel free to browse through the active threads in the Issues tab to pull the exact configuration variables, proxy hook fixes, and hardware tweaks for your specific title setup.
 
-[[![Buy Me a Coffee](https://shields.io)](https://buymeacoffee.com)](https://buymeacoffee.com/FlashAust)
+[![Buy Me a Coffee](https://shields.io)](https://buymeacoffee.com/FlashAust)
+
 
