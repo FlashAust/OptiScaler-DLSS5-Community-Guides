@@ -8,7 +8,7 @@ Rather than relying on a single method, these configurations discuss a variety o
 * **Upscaler Modding:** Fine-tuning advanced fallback loops and frame generation layers across multi-pass scaling assets.
 
 ### 🔍 How to View the Configuration Guides
-All 9 calibration guides and diagnostic breakdowns are hosted in our dedicated tracking index on this page.
+All calibration guides and diagnostic breakdowns are hosted in our dedicated tracking index on this page.
 
 To view the guides, simply click on the **Issues** tab located at the very top-left menu bar of this page (next to the Code tab).
 
